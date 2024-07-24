@@ -1,0 +1,17 @@
+# print('Enter a Name:')
+# Name = input()
+# age=23
+# print('Entered Name is:',Name)
+# print()
+
+Name = input('Enter Your Name:')
+print('Entered Name:',Name)
+print(type(Name))
+value_01 = int(input('Enter Your Mobile Number:'))
+print('Entered Number:',value_01)
+print('Entered Name:',type(value_01))
+print()
+value_01 = float(input('Enter Your percentage:'))
+print('Entered Number:',value_01)
+print('Entered Name:',type(value_01))
+print()

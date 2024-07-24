@@ -1,0 +1,59 @@
+DataTypes:
+    Are the categorization or classification of data items
+    It represents the kind of value that tells what operations can be performed on a parrticular data
+
+Built in DataTypes:
+    Numeric Integer,float and complex
+    Sequence type: string,list and tuple
+    Boolean
+    Set
+    Dictonary
+
+Mutable and Imutable objects:
+    1.Mutable objects can change their state or content
+    Ex:list,dict,Set
+    2.Imutable objects cannot change their state or content
+    Ex:Numeric,Float,Boolean,string,Tuple
+list:
+-> mutable objects
+-> is a Sequence data type which is used to store collection of data
+-> ordered
+tuple
+-> immutable objects
+-> used to store the values
+-> ordered
+
+# String 
+    -> sequence of character
+    -> create a string using single ,double quote or for multiline statement we use """ """
+
+range() -> number of sequence
+start-> default0
+stop -> excluded
+step-> default 1
+
+while
+--> while loop is used to execute a block of statements repeatedly untill a given condition is satisfied.
+--> when the condition becomes false, the line immediately after the loop in the given program is excuted
+# syntax:
+while(expression);
+loop body
+
+# Membership operator
+-> in (true) - if values is not in the sequence
+-> not in (true) - if values is not found in the sequence
+--> used to test whether a value or varaiable is in a sequence
+
+Dictonary:
+-> A Dictonary is a collection of key value particular
+-> Here,each key is connected to a value
+-> use a key to access the value
+-> key should be unique
+
+set:
+-> collection of items
+-> enclosed in {}
+-> each element is separated
+-> Unordered 
+-> Mutable
+-> Unique
