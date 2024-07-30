@@ -1,0 +1,4 @@
+varaiable length argument:
+-> allows a function to accept a varaiable number of arguments
+1) Non-Keywords Argument(*args)
+2) Keyworded Argument (**kwargs)
